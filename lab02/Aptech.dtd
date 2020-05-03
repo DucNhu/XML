@@ -1,0 +1,7 @@
+<!ELEMENT FPTAptech (Student)>
+        <!ELEMENT Student (Name, Age)>
+        <!ELEMENT Name (FName, LName)>
+        <!ELEMENT FName (#PCDATA)>
+        <!ELEMENT LName (#PCDATA)>
+        <!ELEMENT Age (#PCDATA)>
+        <!ATTLIST Student Sex CDATA #REQUIRED>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE FPTAptech SYSTEM "FPTAptech.dtd">
+<FPTAptech>
+    <Student Sex="Female">
+        <Name>
+            <FName>Dinh</FName>
+            <LName>Anh</LName>
+        </Name>
+        <Age>18</Age>
+    </Student>
+    <Student Sex="Female">
+        <Name>
+            <FName>Phan</FName>
+            <LName>Tu</LName>
+        </Name>
+        <Age>22</Age>
+    </Student>
+    <Student Sex="Male">
+        <Name>
+            <FName>Kiet</FName>
+            <LName>Do</LName>
+        </Name>
+        <Age>15</Age>
+    </Student>
+</FPTAptech>
