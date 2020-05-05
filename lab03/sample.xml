@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<!-- Css thứ nhất: -->
+<!-- <?xml-stylesheet type="text/css" href="hello1.css"?> -->
+<!-- Css thứ 2: -->
+<?xml-stylesheet type="text/css" href="hello.css"?>
+
+<body>
+  <xsampdoc>
+    <greeting>
+      Hello, <extension>there!</extension>
+    </greeting>
+    <answer class="ans">
+    <extension>Good morning!</extension>
+    <question>How are you?</question>
+  </answer>
+</xsampdoc>
+</body>
