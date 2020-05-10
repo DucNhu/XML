@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "MLJ_08/book.xsl" ?>
+<Book>
+  <ISBN>101-45979-9-98</ISBN>
+  <Title>David's XML Bible</Title>
+  <Author>
+    <FirstName>Dang</FirstName>
+    <LastName>kim Thi</LastName>
+    </Author>
+  <Chapters>
+    <Preface>
+      <Name>welcome</Name>
+      <Number>1</Number>
+      <Pages>2</Pages>
+    </Preface>
+    <Chapter>
+      <Name>Working with xslt</Name>
+      <Number>3</Number>
+      <Pages>40</Pages>
+    </Chapter>
+    <Chapter>
+      <Name>sorting in xslt</Name>
+      <Number>4</Number>
+      <Pages>4</Pages>
+    </Chapter>
+    <Chapter>
+      <Name>More on xslt</Name>
+      <Number>2</Number>
+      <Pages>50</Pages>
+    </Chapter>
+    <Chapter>
+      <Name>XPAth in xsl</Name>
+      <Number>5</Number>
+      <Pages>10</Pages>
+    </Chapter>
+    <Chapter>
+      <Name>XSL - Formating Objects</Name>
+      <Number>1</Number>
+      <Pages>25</Pages>
+    </Chapter>
+  </Chapters>
+</Book>
